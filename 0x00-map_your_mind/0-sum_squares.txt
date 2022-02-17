@@ -1,0 +1,8 @@
+This program calculates the sum of squares of given input of numbers
+
+sum = 0
+n = INPUT ("How many numbers? ")
+FOR i=0 to n
+    sum = sum + (i*i)
+END FOR
+OUTPUT sum
